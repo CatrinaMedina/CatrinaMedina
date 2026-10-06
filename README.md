@@ -164,7 +164,7 @@ Me interesa el **desarrollo de software**, especialmente el desarrollo **Full St
 
 </div>
 
-**Docker Desktop · Jenkins · GitHub Actions (CI/CD) · Prometheus · Grafana · Kibana**
+**Docker Desktop · Jenkins · GitHub Actions (CI/CD) · Prometheus · Grafana**
 
 ---
 
