@@ -8,11 +8,11 @@
 
 🎓 Estudiante de **Ingeniería en Informática, mención Desarrollo de Software** en **Duoc UC**, actualmente cursando mi **6° semestre**.
 
-Me interesa el **desarrollo de software**, especialmente la creación de aplicaciones **Full Stack**, desarrollo de **APIs y microservicios**, bases de datos, aplicaciones móviles y soluciones **Cloud**. Durante mi formación también he trabajado en **ciberseguridad, testing, DevOps y metodologías ágiles**.
+Me interesa el **desarrollo de software**, especialmente el desarrollo **Full Stack**, APIs, microservicios, bases de datos, aplicaciones móviles y soluciones Cloud. Durante mi formación también he trabajado en **ciberseguridad, testing, DevOps y metodologías ágiles**.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/CatrinaMedina/CatrinaMedina/main/gatito.gif" height="200" alt="gatito" />
+<img src="https://raw.githubusercontent.com/CatrinaMedina/CatrinaMedina/main/gatito.gif" height="180" alt="gatito" />
 
 </div>
 
@@ -43,10 +43,12 @@ Me interesa el **desarrollo de software**, especialmente la creación de aplicac
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
 
 </div>
+
+**Java · Python · Kotlin · HTML · CSS · JavaScript**
+
+---
 
 ### 🎨 Frontend
 
@@ -62,6 +64,10 @@ Me interesa el **desarrollo de software**, especialmente la creación de aplicac
 
 </div>
 
+**React + Vite · Angular · Bootstrap · Axios · Fetch · Node.js · npm**
+
+---
+
 ### ⚙️ Backend
 
 <div align="left">
@@ -71,10 +77,40 @@ Me interesa el **desarrollo de software**, especialmente la creación de aplicac
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" alt="Maven" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="40" alt="Hibernate" />
 
 </div>
+
+**Spring Boot · Maven · Spring Data JPA · Hibernate · Spring Security · JWT · REST API · Swagger / OpenAPI**
+
+---
+
+### 🧪 Testing
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="40" alt="JUnit" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" />
+
+</div>
+
+**JUnit · Mockito · Jest**
+
+---
+
+### 📱 Desarrollo móvil
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
+
+</div>
+
+**Android Studio · Kotlin · XML · Retrofit · Coroutines · lifecycleScope · Activities · Fragments · ViewBinding · RecyclerView · Adapter · SharedPreferences · TokenManager · AuthInterceptor**
+
+---
 
 ### 🗄️ Bases de datos
 
@@ -90,14 +126,44 @@ Me interesa el **desarrollo de software**, especialmente la creación de aplicac
 
 </div>
 
-### ☁️ Cloud, DevOps y monitoreo
+**PostgreSQL · MongoDB · MySQL · Oracle SQL Developer · Oracle Data Modeler · pgAdmin**
+
+---
+
+### 🔐 Seguridad
 
 <div align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" height="40" alt="SonarQube" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg" height="40" alt="Kali Linux" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
+
+</div>
+
+**OAuth 2.0 · MSAL (Microsoft) · Auth0 · JWT · OWASP · Nessus · Kali Linux · Metasploitable3 · SonarQube · Análisis de vulnerabilidades en código**
+
+---
+
+### ☁️ Cloud
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Microsoft Azure" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
-<img width="12" />
+
+</div>
+
+**Microsoft Azure · AWS (EC2)**
+
+---
+
+### ⚙️ DevOps y monitoreo
+
+<div align="left">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins" />
@@ -110,33 +176,23 @@ Me interesa el **desarrollo de software**, especialmente la creación de aplicac
 
 </div>
 
-### 🔐 Seguridad y testing
+**Docker Desktop · Jenkins · GitHub Actions (CI/CD) · Prometheus · Grafana · Kibana**
+
+---
+
+### 🛠️ Entornos y herramientas
 
 <div align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" height="40" alt="SonarQube" />
-<img width="12" />
-<img src="https://cdn.simpleicons.org/owasp/FFFFFF" height="40" alt="OWASP" />
-<img width="12" />
-<img src="https://cdn.simpleicons.org/jsonwebtokens/FFFFFF" height="40" alt="JWT" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="40" alt="JUnit" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
-
-</div>
-
-### 🛠️ Herramientas
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="40" alt="NetBeans" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
 <img width="12" />
@@ -146,43 +202,38 @@ Me interesa el **desarrollo de software**, especialmente la creación de aplicac
 
 </div>
 
+**Oracle VirtualBox · Git · GitHub · Postman · VS Code · IntelliJ IDEA · NetBeans · Figma · Jira · Trello · Confluence · draw.io · Scrum**
+
 ---
 
 ## 🚀 Áreas en las que he trabajado
 
 ### 🌐 Desarrollo Full Stack
-
 Desarrollo de aplicaciones web trabajando tanto **frontend como backend**, conectando interfaces con APIs REST y bases de datos.
 
 ### 🧩 Microservicios
-
-Diseño y desarrollo de arquitecturas basadas en **microservicios**, utilizando APIs REST, API Gateway y BFF.
+Diseño y desarrollo de arquitecturas basadas en **microservicios**, APIs REST, API Gateway y BFF.
 
 ### 📱 Desarrollo móvil
-
 Desarrollo de aplicaciones Android utilizando **Kotlin**, XML, Retrofit, corrutinas, RecyclerView, ViewBinding y SharedPreferences.
 
 ### ☁️ Cloud
-
-Trabajo con servicios de **Microsoft Azure y AWS**, además de conceptos de arquitectura Cloud Native y despliegue de aplicaciones.
+Trabajo con **Microsoft Azure y AWS**, además de conceptos de arquitectura Cloud Native y despliegue de aplicaciones.
 
 ### 🔐 Ciberseguridad
-
-Análisis de vulnerabilidades, seguridad en aplicaciones, OWASP, autenticación, autorización y herramientas como **Nessus, Kali Linux y SonarQube**.
+Evaluación de vulnerabilidades, seguridad en aplicaciones, OWASP, autenticación, autorización y análisis de código.
 
 ### 🧪 Testing y calidad
-
-Pruebas unitarias y automatizadas utilizando **JUnit, Mockito y Jest**, además de análisis de calidad y seguridad del código.
+Pruebas unitarias y automatizadas con **JUnit, Mockito y Jest**, además de análisis de calidad y seguridad del código.
 
 ### ⚙️ DevOps
-
-Trabajo con **Docker, Jenkins y GitHub Actions**, incluyendo conceptos de CI/CD, gestión de dependencias y monitoreo.
+Trabajo con **Docker, Jenkins y GitHub Actions**, incluyendo CI/CD, gestión de dependencias y monitoreo.
 
 ---
 
 ## 📚 Proyectos académicos
 
-Durante mi formación he desarrollado proyectos relacionados con:
+Durante mi formación he trabajado en proyectos relacionados con:
 
 - 🛒 Aplicaciones **Full Stack** con Spring Boot, React y bases de datos.
 - 🧩 Arquitecturas de **microservicios** y APIs REST.
@@ -207,21 +258,6 @@ Actualmente me encuentro cursando mi **6° semestre**, profundizando mis conocim
 - Gestión de proyectos
 - Desarrollo de aplicaciones distribuidas
 
-### 🔮 Próximamente
-
-**7° semestre**
-
-- Arquitecturas TI contemporáneas
-- Desarrollo Cloud Native II
-- BPM aplicado
-- Ética profesional
-
-**8° semestre**
-
-- Taller aplicado de software
-- Taller de tecnologías de vanguardia
-- Práctica profesional
-
 ---
 
 ## 📫 Contacto
@@ -236,14 +272,14 @@ Actualmente me encuentro cursando mi **6° semestre**, profundizando mis conocim
 
 ⭐ Gracias por visitar mi perfil ⭐
 
-<img src="https://raw.githubusercontent.com/CatrinaMedina/CatrinaMedina/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=es&hide_border=false" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=CatrinaMedina&show_icons=true&include_all_commits=true&count_private=true&locale=es&hide_border=false&bg_color=91415F&title_color=F3C6D8&icon_color=C47A98&text_color=F5E8EE&border_color=A85A78" height="180" alt="GitHub Stats" />
 
 <br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CatrinaMedina/CatrinaMedina/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CatrinaMedina/CatrinaMedina/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CatrinaMedina/CatrinaMedina/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/CatrinaMedina/CatrinaMedina/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
 </div>
