@@ -6,7 +6,7 @@
 
 # ¡Hola, soy Catrina Corral! 👋
 
-🎓 Estudiante de **Ingeniería en Informática, mención Desarrollo de Software** en **Duoc UC**, actualmente cursando mi **6° semestre**.
+🎓 Estudiante de **Ingeniería en Informática, mención Desarrollo de Software** en **Duoc UC**, actualmente cursando mi **6° semestre** de 8 semestres.
 
 Me interesa el **desarrollo de software**, especialmente el desarrollo **Full Stack**, APIs, microservicios, bases de datos, aplicaciones móviles y soluciones Cloud. Durante mi formación también he trabajado en **ciberseguridad, testing, DevOps y metodologías ágiles**.
 
@@ -15,14 +15,6 @@ Me interesa el **desarrollo de software**, especialmente el desarrollo **Full St
 <img src="https://raw.githubusercontent.com/CatrinaMedina/CatrinaMedina/main/gatito.gif" height="180" alt="gatito" />
 
 </div>
-
----
-
-## 🎓 Formación
-
-- **Carrera:** Ingeniería en Informática, mención Desarrollo de Software
-- **Institución:** Duoc UC
-- **Semestre actual:** 6° de 8
 
 ---
 
