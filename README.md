@@ -76,6 +76,7 @@ Estudiante de **Ingeniería en Informática, mención Desarrollo de Software** e
   <img src="https://cdn.simpleicons.org/confluence/172B4D" height="40" alt="confluence logo" />
 </div>
 
+
 - **Lenguajes:** Java, Python, Kotlin, HTML, CSS
 - **Frontend:** React + Vite, Angular (lo que estoy usando actualmente), Bootstrap, Axios / Fetch para consumir APIs, Node.js y npm
 - **Backend:** Spring Boot, Maven, Spring Data JPA / Hibernate, Spring Security y JWT, APIs REST documentadas con Swagger / OpenAPI
