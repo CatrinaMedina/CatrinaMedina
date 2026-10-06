@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Catrina%20Corral&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Ingeniería%20en%20Informática%20%7C%20Desarrollo%20de%20Software&descSize=18&descAlignY=62&color=0:8F3F63,50:B05A7D,100:7C3AED" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&reversal=false&fontSize=0&stroke=none&color=0:91415F,45:A85A78,75:C47A98,100:7C3AED" />
 
 </div>
 
@@ -59,8 +59,6 @@ Me interesa el **desarrollo de software**, especialmente la creación de aplicac
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" height="40" alt="Axios" />
 
 </div>
 
@@ -116,15 +114,15 @@ Me interesa el **desarrollo de software**, especialmente la creación de aplicac
 
 <div align="left">
 
-<img src="https://cdn.simpleicons.org/jsonwebtokens/8A2BE2" height="40" alt="JWT" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" height="40" alt="SonarQube" />
 <img width="12" />
-<img src="https://cdn.simpleicons.org/owasp/000000" height="40" alt="OWASP" />
+<img src="https://cdn.simpleicons.org/owasp/FFFFFF" height="40" alt="OWASP" />
 <img width="12" />
-<img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" height="40" alt="SonarQube" />
+<img src="https://cdn.simpleicons.org/jsonwebtokens/FFFFFF" height="40" alt="JWT" />
 <img width="12" />
-<img src="https://cdn.simpleicons.org/junit5/25A162" height="40" alt="JUnit" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="40" alt="JUnit" />
 <img width="12" />
-<img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
 
 </div>
 
@@ -174,7 +172,7 @@ Análisis de vulnerabilidades, seguridad en aplicaciones, OWASP, autenticación,
 
 ### 🧪 Testing y calidad
 
-Pruebas unitarias y automatizadas utilizando herramientas como **JUnit, Mockito y Jest**, además de análisis de calidad y seguridad del código.
+Pruebas unitarias y automatizadas utilizando **JUnit, Mockito y Jest**, además de análisis de calidad y seguridad del código.
 
 ### ⚙️ DevOps
 
@@ -252,6 +250,6 @@ Actualmente me encuentro cursando mi **6° semestre**, profundizando mis conocim
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,50:B05A7D,100:8F3F63" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=false&fontSize=0&stroke=none&color=0:7C3AED,45:C47A98,75:A85A78,100:91415F" />
 
 </div>
