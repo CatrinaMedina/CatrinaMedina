@@ -36,7 +36,7 @@ Me interesa el **desarrollo de software**, especialmente el desarrollo **Full St
 
 </div>
 
-**Java · Python · Kotlin · HTML · CSS**
+**Java · Python · Kotlin · HTML · CSS · JavaScript**
 
 ---
 
