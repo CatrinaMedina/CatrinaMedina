@@ -23,8 +23,6 @@ Me interesa el **desarrollo de software**, especialmente el desarrollo **Full St
 - **Carrera:** Ingeniería en Informática, mención Desarrollo de Software
 - **Institución:** Duoc UC
 - **Semestre actual:** 6° de 8
-- **Salida intermedia:** Analista Programador
-- **Modalidad:** Diurna presencial
 
 ---
 
