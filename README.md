@@ -1,110 +1,113 @@
-<div data-importer="border">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=7C3AED" />
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&fontSize=70&fontColor=FFFFFF&color=7C3AED" />
 </div>
 
 # ¡Hola, soy Catrina Corral! 👋
 
-Estudiante de **Ingeniería en Informática, mención Desarrollo de Software** en **Duoc UC**, actualmente cursando el **6° semestre** de 8. Me interesa construir software de punta a punta: desde el diseño de la base de datos y el backend hasta la interfaz y el despliegue en la nube.
+🎓 Estudiante de **Ingeniería en Informática, mención Desarrollo de Software** en **Duoc UC**, actualmente cursando mi **6° semestre**.
 
-<div data-importer="image" align="center">
+Me interesa el **desarrollo de software**, especialmente la creación de aplicaciones **Full Stack**, desarrollo de **APIs y microservicios**, bases de datos, aplicaciones móviles y soluciones **Cloud**. Durante mi formación también he trabajado en **ciberseguridad, testing, DevOps y metodologías ágiles**.
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/CatrinaMedina/CatrinaMedina/main/gatito.gif" height="200" alt="gatito" />
 </div>
 
-## 🎓 Formación
+---
+
+## 🎓 Sobre mi formación
 
 - **Carrera:** Ingeniería en Informática, mención Desarrollo de Software
-- **Institución:** Duoc UC (modalidad diurna presencial)
-- **Título final:** Ingeniera en Informática, Especialización en Desarrollo de Software
+- **Institución:** Duoc UC
+- **Semestre actual:** 6° de 8
 - **Salida intermedia:** Analista Programador
-- **Avance:** 6° semestre de 8
+- **Modalidad:** Diurna presencial
 
-## 🛠️ Lo que he aprendido hasta ahora
-
-| Área | Qué he trabajado |
-|------|------------------|
-| **Programación** | Fundamentos de programación y desarrollo orientado a objetos |
-| **Desarrollo Full Stack** | Desarrollo Full Stack I, II y III |
-| **Aplicaciones móviles** | Desarrollo de aplicaciones móviles |
-| **Bases de datos** | Base de Datos Aplicada I y II, Taller de Base de Datos |
-| **Ingeniería de software** | Ingeniería de Requisitos e Ingeniería de Software |
-| **Cloud** | Introducción a Cloud Computing y Desarrollo Cloud Native I (en curso) |
-| **Ciberseguridad** | Seguridad y calidad en el desarrollo de software (en curso) |
-| **Gestión de proyectos** | Evaluación de proyectos de software y Gestión de proyectos de software (en curso) |
-| **DevOps** | Introducción a herramientas DevOps |
-| **Innovación** | Bases de innovación |
-| **Formación general** | Nivelación matemática, Matemática aplicada, Estadística descriptiva, Habilidades de comunicación, Inglés elemental I y II, Inglés intermedio I |
-| **Formación optativa** | Ciberseguridad en Desarrollo y Java: Diseño y construcción de soluciones en la nube (en curso) |
-| **Formación sello** | Fundamentos de antropología, Formación cristiana, Ética para el trabajo |
+---
 
 ## 💻 Tecnologías y herramientas
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/confluence/C4B5FD" height="40" alt="confluence logo" />
-</div>
+### Lenguajes
+Java · Python · Kotlin · HTML · CSS · JavaScript
 
-- **Lenguajes:** Java, Python, Kotlin, HTML, CSS
-- **Frontend:** React + Vite, Angular (lo que estoy usando actualmente), Bootstrap, Axios / Fetch para consumir APIs, Node.js y npm
-- **Backend:** Spring Boot, Maven, Spring Data JPA / Hibernate, Spring Security y JWT, APIs REST documentadas con Swagger / OpenAPI
-- **Pruebas:** JUnit y Mockito
-- **Móvil (Kotlin / Android Studio):** Retrofit, corrutinas, `lifecycleScope`, Activities y Fragments, ViewBinding, layouts XML, RecyclerView con Adapter, SharedPreferences, manejo de sesión con token (`TokenManager`, `AuthInterceptor`)
-- **Bases de datos:** PostgreSQL, MongoDB, MySQL, Oracle SQL Developer, Oracle Data Modeler, pgAdmin
-- **Autenticación y seguridad:** OAuth 2.0, MSAL (Microsoft), Auth0, SonarQube, OWASP, Nessus, Kali Linux, Metasploitable3, análisis de vulnerabilidades en código
-- **Cloud:** Microsoft Azure, AWS (EC2)
-- **DevOps y monitoreo:** Docker Desktop, Jenkins, GitHub Actions (CI/CD), Prometheus, Grafana, Kibana
-- **Entornos y herramientas:** VS Code, IntelliJ IDEA, NetBeans, Oracle VirtualBox, Git, GitHub, Postman
-- **Gestión y diseño:** Jira / Trello, Confluence, metodologías ágiles (Scrum), Figma, draw.io
+### Frontend
+React · Vite · Angular · Bootstrap · Axios · Fetch
 
-## 🔐 Ciberseguridad en Desarrollo (optativo)
+### Backend
+Spring Boot · Spring Security · Spring Data JPA · Hibernate · Maven · Node.js
 
-Curso práctico donde trabajé la seguridad a lo largo de todo el ciclo de vida del software:
+### APIs y arquitectura
+REST API · Swagger / OpenAPI · Microservicios · API Gateway · BFF
 
-- **Unidad 1: Evaluación de vulnerabilidades.** Principios de confidencialidad, integridad y disponibilidad; riesgos y amenazas comunes (inyección SQL, XSS, exposición de datos sensibles). Armé un laboratorio con máquinas virtuales de **Kali Linux** y **Metasploitable3** y analicé vulnerabilidades con **Nessus**.
-- **Unidad 2: Evaluación y remediación de código.** Codificación segura, validación de entradas y programación defensiva. Corregí código vulnerable (inyección SQL, XSS, inyección de comandos, deserialización insegura), y trabajé CSRF, autenticación robusta (MFA) y control de acceso por roles.
-- **Unidad 3: DevSecOps.** Pipeline de CI/CD con **Jenkins y Docker**, pruebas de seguridad automatizadas, gestión de dependencias y actualizaciones seguras, documentación y trazabilidad en el SDLC, y monitoreo de producción con **Prometheus, Grafana y Kibana**.
+### Bases de datos
+MySQL · PostgreSQL · MongoDB · Oracle SQL Developer · pgAdmin · Oracle Data Modeler
 
-## 🎯 Lo que viene
+### Desarrollo móvil
+Android Studio · Kotlin · XML · Retrofit · Coroutines · ViewBinding · RecyclerView · SharedPreferences
+
+### Seguridad y testing
+JWT · OAuth 2.0 · MSAL · Auth0 · OWASP · SonarQube · Nessus · JUnit · Mockito · Kali Linux · Metasploitable3
+
+### Cloud y DevOps
+Microsoft Azure · AWS EC2 · Docker · Jenkins · GitHub Actions · CI/CD
+
+### Monitoreo
+Prometheus · Grafana · Kibana
+
+### Herramientas
+Git · GitHub · Postman · VS Code · IntelliJ IDEA · NetBeans · Jira · Trello · Confluence · Figma · draw.io
+
+---
+
+## 🚀 Áreas en las que he trabajado
+
+### 🌐 Desarrollo Full Stack
+He desarrollado aplicaciones web trabajando tanto el frontend como el backend, conectando interfaces con APIs REST y bases de datos.
+
+### ☁️ Cloud y Microservicios
+He trabajado con arquitecturas basadas en microservicios, API Gateway, BFF y servicios desplegados en plataformas Cloud como **Azure y AWS**.
+
+### 📱 Desarrollo móvil
+He desarrollado aplicaciones Android utilizando **Kotlin**, XML, Retrofit, corrutinas, RecyclerView y manejo de sesiones mediante tokens y SharedPreferences.
+
+### 🔐 Ciberseguridad
+He trabajado seguridad durante el ciclo de vida del software, incluyendo análisis de vulnerabilidades, OWASP, autenticación, autorización, pruebas de seguridad y herramientas como **Nessus, Kali Linux y SonarQube**.
+
+### 🧪 Testing y calidad
+He trabajado con pruebas unitarias utilizando **JUnit, Mockito y Jest**, además de análisis de calidad y seguridad del código.
+
+### ⚙️ DevOps
+He trabajado con **Docker, Jenkins y GitHub Actions**, incluyendo conceptos de integración y despliegue continuo, además de monitoreo con Prometheus y Grafana.
+
+---
+
+## 📚 Proyectos y trabajos académicos
+
+Durante mi formación he desarrollado distintos proyectos relacionados con:
+
+- 🛒 Aplicaciones Full Stack con **Spring Boot, React y MySQL**
+- 📱 Aplicaciones móviles Android con **Kotlin**
+- 🧩 Arquitecturas de **microservicios**
+- ☁️ Soluciones **Cloud Native**
+- 🔐 Evaluación y corrección de vulnerabilidades
+- 🧪 Automatización de pruebas y testing de APIs
+- 📊 Sistemas de monitoreo y observabilidad
+- 🗄️ Diseño y administración de bases de datos
+- 📋 Gestión de proyectos mediante **Scrum, Jira y Trello**
+
+---
+
+## 🎯 Actualmente
+
+Estoy cursando mi **6° semestre**, profundizando mis conocimientos en:
+
+- Desarrollo Cloud Native
+- Ciberseguridad aplicada al desarrollo
+- Testing y calidad de software
+- Arquitecturas de software
+- Gestión de proyectos
+- Desarrollo de aplicaciones distribuidas
+
+### Próximamente
 
 **7° semestre**
 - Arquitecturas TI contemporáneas
@@ -117,26 +120,28 @@ Curso práctico donde trabajé la seguridad a lo largo de todo el ciclo de vida 
 - Taller de tecnologías de vanguardia
 - Práctica profesional
 
+---
+
 ## 📫 Contacto
 
-- **LinkedIn:** [Pronto..](#)
-- **Correo:** `danaecatriina@gmail.com`
 - **GitHub:** [@CatrinaMedina](https://github.com/CatrinaMedina)
+- **LinkedIn:** Próximamente
+- **Correo:** `danaecatriina@gmail.com`
 
 ---
 
-⭐ Gracias por pasar por mi perfil.
+⭐ Gracias por visitar mi perfil.
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/CatrinaMedina/CatrinaMedina/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=es&hide_border=false&order=1" height="150" alt="stats graph" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/CatrinaMedina/CatrinaMedina/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=es&hide_border=false&order=1" height="150" alt="GitHub stats" />
 </div>
 
-<picture data-importer="pacman">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CatrinaMedina/CatrinaMedina/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CatrinaMedina/CatrinaMedina/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CatrinaMedina/CatrinaMedina/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-<div data-importer="border">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=7C3AED" />
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&fontSize=70&fontColor=FFFFFF&color=7C3AED" />
 </div>
