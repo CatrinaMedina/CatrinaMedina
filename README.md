@@ -4,7 +4,7 @@
 
 </div>
 
-# ¡Hola, soy Catrina Corral! 👋🏻
+# ¡Hola, soy Catrina Medina! 👋🏻
 
 🎓 Estudiante de **Ingeniería en Informática, mención Desarrollo de Software** en **Duoc UC**, actualmente cursando mi **6° semestre** de 8 semestres.
 
