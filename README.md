@@ -85,7 +85,7 @@ Estudiante de **Ingeniería en Informática, mención Desarrollo de Software** e
 
 
 - **Lenguajes:** Java, Python, Kotlin, HTML, CSS
-- **Frontend:** React + Vite, Angular (lo que estoy usando actualmente), Bootstrap, Axios / Fetch para consumir APIs, Node.js y npm
+- **Frontend:** React + Vite, Angular, Bootstrap, Axios / Fetch para consumir APIs, Node.js y npm
 - **Backend:** Spring Boot, Maven, Spring Data JPA / Hibernate, Spring Security y JWT, APIs REST documentadas con Swagger / OpenAPI
 - **Pruebas:** JUnit y Mockito
 - **Móvil (Kotlin / Android Studio):** Retrofit, corrutinas, `lifecycleScope`, Activities y Fragments, ViewBinding, layouts XML, RecyclerView con Adapter, SharedPreferences, manejo de sesión con token (`TokenManager`, `AuthInterceptor`)
