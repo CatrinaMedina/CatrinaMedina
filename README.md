@@ -1,3 +1,8 @@
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
+</div>
+
+###
 # ¡Hola, soy Catrina Corral! 👋
 
 Estudiante de **Ingeniería en Informática, mención Desarrollo de Software** en **Duoc UC**, actualmente cursando el **6° semestre** de 8. Me interesa construir software de punta a punta: desde el diseño de la base de datos y el backend hasta la interfaz y el despliegue en la nube.
@@ -119,3 +124,8 @@ Curso práctico donde trabajé la seguridad a lo largo de todo el ciclo de vida 
 ---
 
 ⭐ Gracias por pasar por mi perfil.
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
+</div>
+
+###
