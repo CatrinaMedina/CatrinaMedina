@@ -7,6 +7,8 @@
 
 Estudiante de **Ingeniería en Informática, mención Desarrollo de Software** en **Duoc UC**, actualmente cursando el **6° semestre** de 8. Me interesa construir software de punta a punta: desde el diseño de la base de datos y el backend hasta la interfaz y el despliegue en la nube.
 
+<div data-importer="image" align="center"> <img src="https://raw.githubusercontent.com/CatrinaMedina/CatrinaMedina/main/gatito.gif" height="200" alt="gatito" /> </div>
+
 ## 🎓 Formación
 
 - **Carrera:** Ingeniería en Informática, mención Desarrollo de Software
