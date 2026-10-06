@@ -250,11 +250,10 @@ Durante mi formación he trabajado en proyectos relacionados con:
 
 Estoy cursando mi **6° semestre**, profundizando mis conocimientos en:
 
-- Desarrollo Cloud Native I
+- Desarrollo Cloud Native I: página web con **Angular**, **Azure** y autenticación con **MSAL**
 - Seguridad y calidad en el desarrollo de software
 - Gestión de proyectos de software
 - Optativo: Java, diseño y construcción de soluciones en la nube
-- Una página web con **Angular**, **Azure** y autenticación con **MSAL**
 
 **Lo que viene:** Arquitecturas TI contemporáneas, Desarrollo Cloud Native II, BPM aplicado, Taller aplicado de software, Taller de tecnologías de vanguardia y Práctica profesional.
 
