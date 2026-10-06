@@ -124,6 +124,12 @@ Curso práctico donde trabajé la seguridad a lo largo de todo el ciclo de vida 
 ---
 
 ⭐ Gracias por pasar por mi perfil.
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/CatrinaMedina/CatrinaMedina/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
 </div>
