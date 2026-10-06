@@ -1,13 +1,14 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=7C3AED" />
 </div>
 
-###
 # ¡Hola, soy Catrina Corral! 👋
 
 Estudiante de **Ingeniería en Informática, mención Desarrollo de Software** en **Duoc UC**, actualmente cursando el **6° semestre** de 8. Me interesa construir software de punta a punta: desde el diseño de la base de datos y el backend hasta la interfaz y el despliegue en la nube.
 
-<div data-importer="image" align="center"> <img src="https://raw.githubusercontent.com/CatrinaMedina/CatrinaMedina/main/gatito.gif" height="200" alt="gatito" /> </div>
+<div data-importer="image" align="center">
+  <img src="https://raw.githubusercontent.com/CatrinaMedina/CatrinaMedina/main/gatito.gif" height="200" alt="gatito" />
+</div>
 
 ## 🎓 Formación
 
@@ -80,12 +81,11 @@ Estudiante de **Ingeniería en Informática, mención Desarrollo de Software** e
   <img width="12" />
   <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/confluence/172B4D" height="40" alt="confluence logo" />
+  <img src="https://cdn.simpleicons.org/confluence/C4B5FD" height="40" alt="confluence logo" />
 </div>
 
-
 - **Lenguajes:** Java, Python, Kotlin, HTML, CSS
-- **Frontend:** React + Vite, Angular, Bootstrap, Axios / Fetch para consumir APIs, Node.js y npm
+- **Frontend:** React + Vite, Angular (lo que estoy usando actualmente), Bootstrap, Axios / Fetch para consumir APIs, Node.js y npm
 - **Backend:** Spring Boot, Maven, Spring Data JPA / Hibernate, Spring Security y JWT, APIs REST documentadas con Swagger / OpenAPI
 - **Pruebas:** JUnit y Mockito
 - **Móvil (Kotlin / Android Studio):** Retrofit, corrutinas, `lifecycleScope`, Activities y Fragments, ViewBinding, layouts XML, RecyclerView con Adapter, SharedPreferences, manejo de sesión con token (`TokenManager`, `AuthInterceptor`)
@@ -128,10 +128,8 @@ Curso práctico donde trabajé la seguridad a lo largo de todo el ciclo de vida 
 ⭐ Gracias por pasar por mi perfil.
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/CatrinaMedina/CatrinaMedina/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=es&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/CatrinaMedina/CatrinaMedina/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=es&hide_border=false&order=1" height="150" alt="stats graph" />
 </div>
-
-###
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CatrinaMedina/CatrinaMedina/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
@@ -139,10 +137,6 @@ Curso práctico donde trabajé la seguridad a lo largo de todo el ciclo de vida 
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CatrinaMedina/CatrinaMedina/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-###
-
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=7C3AED" />
 </div>
-
-###
