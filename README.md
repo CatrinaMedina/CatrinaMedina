@@ -18,6 +18,17 @@ Me interesa el **desarrollo de software**, especialmente el desarrollo **Full St
 
 ---
 
+## 🎓 Formación
+
+- **Carrera:** Ingeniería en Informática, mención Desarrollo de Software
+- **Institución:** Duoc UC (modalidad diurna presencial)
+- **Título final:** Ingeniera en Informática, Especialización en Desarrollo de Software
+- **Salida intermedia:** Analista Programador
+- **Avance:** 6° semestre de 8
+- **Optativos:** Ciberseguridad en Desarrollo (cursado) · Java: Diseño y construcción de soluciones en la nube (en curso)
+
+---
+
 ## 💻 Tecnologías y herramientas
 
 ### 👩‍💻 Lenguajes
@@ -51,10 +62,12 @@ Me interesa el **desarrollo de software**, especialmente el desarrollo **Full St
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
 
 </div>
 
-**React + Vite · Angular · Bootstrap · Axios · Fetch · Node.js · npm**
+**React + Vite · Angular (lo que estoy usando actualmente) · Bootstrap · Axios · Fetch · Node.js · npm**
 
 ---
 
@@ -63,8 +76,6 @@ Me interesa el **desarrollo de software**, especialmente el desarrollo **Full St
 <div align="left">
 
 <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="Spring Boot" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" alt="Maven" />
 
@@ -125,8 +136,6 @@ Me interesa el **desarrollo de software**, especialmente el desarrollo **Full St
 <div align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" height="40" alt="SonarQube" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
 
 </div>
 
@@ -164,7 +173,7 @@ Me interesa el **desarrollo de software**, especialmente el desarrollo **Full St
 
 </div>
 
-**Docker Desktop · Jenkins · GitHub Actions (CI/CD) · Prometheus · Grafana**
+**Docker Desktop · Jenkins · GitHub Actions (CI/CD) · Prometheus · Grafana · Kibana**
 
 ---
 
@@ -181,6 +190,8 @@ Me interesa el **desarrollo de software**, especialmente el desarrollo **Full St
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
 <img width="12" />
@@ -209,7 +220,7 @@ Desarrollo de aplicaciones Android utilizando **Kotlin**, XML, Retrofit, corruti
 Trabajo con **Microsoft Azure y AWS**, además de conceptos de arquitectura Cloud Native y despliegue de aplicaciones.
 
 ### 🔐 Ciberseguridad
-Evaluación de vulnerabilidades, seguridad en aplicaciones, OWASP, autenticación, autorización y análisis de código.
+Evaluación de vulnerabilidades, seguridad en aplicaciones, OWASP, autenticación, autorización, análisis de código y pruebas con **Jest**. Cursé el optativo **Ciberseguridad en Desarrollo**, donde trabajé laboratorios con Kali Linux y Metasploitable3, remediación de código vulnerable y DevSecOps.
 
 ### 🧪 Testing y calidad
 Pruebas unitarias y automatizadas con **JUnit, Mockito y Jest**, además de análisis de calidad y seguridad del código.
@@ -237,14 +248,15 @@ Durante mi formación he trabajado en proyectos relacionados con:
 
 ## 🎯 Actualmente
 
-Actualmente me encuentro cursando mi **6° semestre**, profundizando mis conocimientos en:
+Estoy cursando mi **6° semestre**, profundizando mis conocimientos en:
 
-- Desarrollo Cloud Native
-- Ciberseguridad aplicada al desarrollo
-- Testing y calidad de software
-- Arquitecturas de software
-- Gestión de proyectos
-- Desarrollo de aplicaciones distribuidas
+- Desarrollo Cloud Native I
+- Seguridad y calidad en el desarrollo de software
+- Gestión de proyectos de software
+- Optativo: Java, diseño y construcción de soluciones en la nube
+- Una página web con **Angular**, **Azure** y autenticación con **MSAL**
+
+**Lo que viene:** Arquitecturas TI contemporáneas, Desarrollo Cloud Native II, BPM aplicado, Taller aplicado de software, Taller de tecnologías de vanguardia y Práctica profesional.
 
 ---
 
@@ -260,7 +272,7 @@ Actualmente me encuentro cursando mi **6° semestre**, profundizando mis conocim
 
 ⭐ Gracias por visitar mi perfil ⭐
 
-<img src="https://github-readme-stats.vercel.app/api?username=CatrinaMedina&show_icons=true&include_all_commits=true&count_private=true&locale=es&hide_border=false&bg_color=91415F&title_color=F3C6D8&icon_color=C47A98&text_color=F5E8EE&border_color=A85A78" height="180" alt="GitHub Stats" />
+<img src="https://raw.githubusercontent.com/CatrinaMedina/CatrinaMedina/stats-output/stats.svg" height="180" alt="GitHub Stats" />
 
 <br><br>
 
