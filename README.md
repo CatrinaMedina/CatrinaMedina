@@ -125,6 +125,12 @@ Curso práctico donde trabajé la seguridad a lo largo de todo el ciclo de vida 
 
 ⭐ Gracias por pasar por mi perfil.
 
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/CatrinaMedina/CatrinaMedina/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=es&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CatrinaMedina/CatrinaMedina/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CatrinaMedina/CatrinaMedina/pacman-output/pacman-contribution-graph.svg?game=pacman">
