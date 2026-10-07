@@ -4,7 +4,7 @@
 
 </div>
 
-# ¡Hola, soy Catrina Medina! 👋🏻
+# ¡Hola, soy Catrina! 👋🏻
 
 🎓 Estudiante de **Ingeniería en Informática, mención Desarrollo de Software** en **Duoc UC**, actualmente cursando mi **6° semestre** de 8 semestres.
 
