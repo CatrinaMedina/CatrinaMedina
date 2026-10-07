@@ -69,7 +69,7 @@ Me interesa el **desarrollo de software**, especialmente el desarrollo **Full St
 
 </div>
 
-**React + Vite · Angular · Tailwind CSS · Bootstrap · Axios · Fetch · Node.js · npm · Nginx**
+**React + Vite · Angular · Tailwind CSS · Bootstrap · Java Swing (escritorio) · Axios · Fetch · Node.js · npm · Nginx**
 
 ---
 
@@ -87,7 +87,7 @@ Me interesa el **desarrollo de software**, especialmente el desarrollo **Full St
 
 </div>
 
-**Spring Boot · Maven · Gradle · Spring Data JPA · Hibernate · Spring Security · JWT · REST API · Swagger / OpenAPI · Flask · Xano**
+**Spring Boot · Maven · Gradle · Spring Data JPA · Hibernate · Spring Security · JWT · REST API · Swagger / OpenAPI · JDBC · Flask · Xano**
 
 ---
 
@@ -245,6 +245,8 @@ Durante mi formación he trabajado en proyectos relacionados con:
 - 🛒 Aplicaciones **Full Stack** con Spring Boot, React y bases de datos.
 - 🧩 Arquitecturas de **microservicios** y APIs REST.
 - 📱 Aplicaciones móviles Android con Kotlin.
+- 🖥️ Aplicaciones de escritorio en Java (Swing, JDBC, MySQL) con patrón MVC y DAO.
+- 🎮 Programación orientada a objetos y corrutinas en Kotlin.
 - ☁️ Soluciones **Cloud Native**.
 - 🔐 Evaluación y corrección de vulnerabilidades.
 - 🧪 Testing de aplicaciones y APIs.
@@ -265,6 +267,8 @@ Durante mi formación he trabajado en proyectos relacionados con:
 | [back-ventas-springboot](https://github.com/CatrinaMedina/back-ventas-springboot) | Spring Boot · Docker · AWS ECR/ECS · OpenAPI |
 | [back-despachos-springboot](https://github.com/CatrinaMedina/back-despachos-springboot) | Spring Boot · Docker · AWS ECR/ECS · OpenAPI |
 | [PerfumitosKotlin](https://github.com/CatrinaMedina/PerfumitosKotlin) | Kotlin · Android · Retrofit · Xano |
+| [TiendaConsolas-Kotlin](https://github.com/CatrinaMedina/TiendaConsolas-Kotlin) | Kotlin · POO · Colecciones · Corrutinas |
+| [RecetasJava-NetBeans](https://github.com/CatrinaMedina/RecetasJava-NetBeans) | Java · Swing · JDBC · MySQL · MVC · NetBeans |
 
 ---
 
