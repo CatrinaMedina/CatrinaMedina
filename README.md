@@ -47,7 +47,7 @@ Me interesa el **desarrollo de software**, especialmente el desarrollo **Full St
 
 </div>
 
-**Java · Python · Kotlin · HTML · CSS · JavaScript · TypeScript**
+**Java · Python · Kotlin · SQL · PL/SQL · HTML · CSS · JavaScript · TypeScript · YAML**
 
 ---
 
@@ -61,13 +61,15 @@ Me interesa el **desarrollo de software**, especialmente el desarrollo **Full St
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular" />
 <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
 
 </div>
 
-**React + Vite · Angular (lo que estoy usando actualmente) · Bootstrap · Axios · Fetch · Node.js · npm**
+**React + Vite · Angular (lo que estoy usando actualmente) · Tailwind CSS · Bootstrap · Axios · Fetch · Node.js · npm · Nginx**
 
 ---
 
@@ -78,10 +80,14 @@ Me interesa el **desarrollo de software**, especialmente el desarrollo **Full St
 <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="Spring Boot" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" alt="Maven" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="Gradle" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
 
 </div>
 
-**Spring Boot · Maven · Spring Data JPA · Hibernate · Spring Security · JWT · REST API · Swagger / OpenAPI**
+**Spring Boot · Maven · Gradle · Spring Data JPA · Hibernate · Spring Security · JWT · REST API · Swagger / OpenAPI · Flask · Xano**
 
 ---
 
@@ -127,7 +133,7 @@ Me interesa el **desarrollo de software**, especialmente el desarrollo **Full St
 
 </div>
 
-**PostgreSQL · MongoDB · MySQL · Oracle SQL Developer · Oracle Data Modeler · pgAdmin**
+**SQL · PostgreSQL · MongoDB · MySQL · Oracle SQL Developer · Oracle Data Modeler · pgAdmin**
 
 ---
 
@@ -139,7 +145,7 @@ Me interesa el **desarrollo de software**, especialmente el desarrollo **Full St
 
 </div>
 
-**OAuth 2.0 · MSAL (Microsoft) · Auth0 · JWT · OWASP · Nessus · Kali Linux · Metasploitable3 · SonarQube · Análisis de vulnerabilidades en código**
+**OAuth 2.0 · MSAL (Microsoft) · Auth0 · JWT · OWASP · OWASP ZAP · Nessus · Kali Linux · Metasploitable3 · SonarQube · CodeQL · Dependabot · Secret scanning · Análisis de vulnerabilidades en código**
 
 ---
 
@@ -153,7 +159,7 @@ Me interesa el **desarrollo de software**, especialmente el desarrollo **Full St
 
 </div>
 
-**Microsoft Azure · AWS (EC2)**
+**Microsoft Azure · AWS (EC2, ECR, ECS)**
 
 ---
 
@@ -167,13 +173,15 @@ Me interesa el **desarrollo de software**, especialmente el desarrollo **Full St
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions" />
 <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx" />
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="Prometheus" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="Grafana" />
 
 </div>
 
-**Docker Desktop · Jenkins · GitHub Actions (CI/CD) · Prometheus · Grafana · Kibana**
+**Docker Desktop · Docker Compose · Jenkins · GitHub Actions (CI/CD) · Prometheus · Grafana · Kibana**
 
 ---
 
@@ -217,10 +225,10 @@ Diseño y desarrollo de arquitecturas basadas en **microservicios**, APIs REST, 
 Desarrollo de aplicaciones Android utilizando **Kotlin**, XML, Retrofit, corrutinas, RecyclerView, ViewBinding y SharedPreferences.
 
 ### ☁️ Cloud
-Trabajo con **Microsoft Azure y AWS**, además de conceptos de arquitectura Cloud Native y despliegue de aplicaciones.
+Trabajo con **Microsoft Azure y AWS** (EC2, ECR y ECS), además de conceptos de arquitectura Cloud Native y despliegue de aplicaciones con contenedores.
 
 ### 🔐 Ciberseguridad
-Evaluación de vulnerabilidades, seguridad en aplicaciones, OWASP, autenticación, autorización, análisis de código y pruebas con **Jest**. Cursé el optativo **Ciberseguridad en Desarrollo**, donde trabajé laboratorios con Kali Linux y Metasploitable3, remediación de código vulnerable y DevSecOps.
+Evaluación de vulnerabilidades, seguridad en aplicaciones, OWASP, autenticación, autorización, análisis de código y pruebas con **Jest**. Cursé el optativo **Ciberseguridad en Desarrollo**, donde trabajé laboratorios con Kali Linux y Metasploitable3, remediación de código vulnerable y DevSecOps, usando herramientas como **OWASP ZAP, CodeQL y Dependabot**.
 
 ### 🧪 Testing y calidad
 Pruebas unitarias y automatizadas con **JUnit, Mockito y Jest**, además de análisis de calidad y seguridad del código.
@@ -243,6 +251,20 @@ Durante mi formación he trabajado en proyectos relacionados con:
 - 📊 Monitoreo y observabilidad.
 - 🗄️ Diseño y administración de bases de datos.
 - 📋 Gestión de proyectos mediante metodologías ágiles.
+
+---
+
+## 📂 Repositorios destacados
+
+| Proyecto | Tecnologías |
+|---|---|
+| [Pedidos360-Frontend](https://github.com/CatrinaMedina/Pedidos360-Frontend) | Angular · TypeScript · MSAL (Azure) |
+| [Pedidos360-Backend](https://github.com/CatrinaMedina/Pedidos360-Backend) | Spring Boot · Microservicios · BFF · Spring Security |
+| [EV3-Ciberseguridad_Final](https://github.com/CatrinaMedina/EV3-Ciberseguridad_Final) | Python · Flask · Docker · Jenkins · Prometheus · Grafana · CodeQL |
+| [front-despacho](https://github.com/CatrinaMedina/front-despacho) | React · Vite · Tailwind CSS · Docker · Nginx · GitHub Actions |
+| [back-ventas-springboot](https://github.com/CatrinaMedina/back-ventas-springboot) | Spring Boot · Docker · AWS ECR/ECS · OpenAPI |
+| [back-despachos-springboot](https://github.com/CatrinaMedina/back-despachos-springboot) | Spring Boot · Docker · AWS ECR/ECS · OpenAPI |
+| [PerfumitosKotlin](https://github.com/CatrinaMedina/PerfumitosKotlin) | Kotlin · Android · Retrofit · Xano |
 
 ---
 
