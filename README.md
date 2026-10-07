@@ -209,7 +209,7 @@ Me interesa el **desarrollo de software**, especialmente el desarrollo **Full St
 
 </div>
 
-**Oracle VirtualBox · Git · GitHub · Postman · VS Code · IntelliJ IDEA · NetBeans · Figma · Jira · Trello · Confluence · draw.io · Scrum**
+**Oracle VirtualBox · Git · GitHub · Postman · VS Code · IntelliJ IDEA · NetBeans · Figma · Balsamiq · Jira · Trello · Confluence · draw.io · Scrum**
 
 ---
 
