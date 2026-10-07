@@ -69,7 +69,7 @@ Me interesa el **desarrollo de software**, especialmente el desarrollo **Full St
 
 </div>
 
-**React + Vite · Angular (lo que estoy usando actualmente) · Tailwind CSS · Bootstrap · Axios · Fetch · Node.js · npm · Nginx**
+**React + Vite · Angular · Tailwind CSS · Bootstrap · Axios · Fetch · Node.js · npm · Nginx**
 
 ---
 
