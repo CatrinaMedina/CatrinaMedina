@@ -269,6 +269,7 @@ Durante mi formación he trabajado en proyectos relacionados con:
 | [PerfumitosKotlin](https://github.com/CatrinaMedina/PerfumitosKotlin) | Kotlin · Android · Retrofit · Xano |
 | [TiendaConsolas-Kotlin](https://github.com/CatrinaMedina/TiendaConsolas-Kotlin) | Kotlin · POO · Colecciones · Corrutinas |
 | [RecetasJava-NetBeans](https://github.com/CatrinaMedina/RecetasJava-NetBeans) | Java · Swing · JDBC · MySQL · MVC · NetBeans |
+| [ChocoFrutas-SpringBoot](https://github.com/CatrinaMedina/ChocoFrutas-SpringBoot) | React · Vite · Spring Boot · MySQL · JWT · Spring Security |
 
 ---
 
