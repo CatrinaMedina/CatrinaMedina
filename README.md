@@ -87,7 +87,7 @@ Me interesa el **desarrollo de software**, especialmente el desarrollo **Full St
 
 </div>
 
-**Spring Boot · Maven · Gradle · Spring Data JPA · Hibernate · Spring Security · JWT · REST API · Swagger / OpenAPI · JDBC · Flask · Xano**
+**Spring Boot · Maven · Gradle · Spring Data JPA · Hibernate · Spring Security · JWT · REST API · Swagger / OpenAPI · JDBC · Flask · Xano · Spring Boot Actuator · Thymeleaf**
 
 ---
 
