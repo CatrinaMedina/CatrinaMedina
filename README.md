@@ -289,7 +289,7 @@ Estoy cursando mi **6° semestre**, profundizando mis conocimientos en:
 ## 📫 Contacto
 
 - 💻 **GitHub:** [@CatrinaMedina](https://github.com/CatrinaMedina)
-- 💼 **LinkedIn:** Próximamente
+- 💼 **LinkedIn:** [Catrina Corral](https://www.linkedin.com/in/catrina-corral-909690171)
 - 📧 **Correo:** `danaecatriina@gmail.com`
 
 ---
