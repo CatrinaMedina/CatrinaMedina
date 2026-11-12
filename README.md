@@ -74,10 +74,6 @@ En el **6.º semestre**, estoy profundizando en desarrollo cloud native, segurid
 
 ⭐ Gracias por visitar mi perfil ⭐
 
-<img src="https://raw.githubusercontent.com/CatrinaMedina/CatrinaMedina/stats-output/stats.svg" height="180" alt="GitHub Stats" />
-
-<br><br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CatrinaMedina/CatrinaMedina/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CatrinaMedina/CatrinaMedina/pacman-output/pacman-contribution-graph.svg?game=pacman">
